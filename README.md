@@ -30,7 +30,7 @@ The recruitment system is implemented as a modular n8n workflow with a main pipe
 
 <details> <summary>Click to expand the main processing pipeline</summary>
 Workflow Diagram Placeholder:
-/docs/workflow.png
+/docs/mermaid-diagram.png
 
 </details>
 ⚙️ System Components
